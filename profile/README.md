@@ -45,7 +45,7 @@ Import and edit HEIF and HEIC image formats natively in CorelDRAW — full suppo
 ### 🖼 Preview
 
 CorelDRAW interface importing a high-efficiency .HEIC image  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://www.majorgeeks.com/content/file/3784_how%20to%20open%20a%20heif%20or%20heic%20image%20in%20windows%2010.jpg)  
 *Modern photo format. Seamless workflow. Corel-ready.*
 
 ---
